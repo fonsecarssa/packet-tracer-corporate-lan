@@ -71,6 +71,7 @@ Validação ponta a ponta do serviço HTTP exibindo o portal interno customizado
 
 ### 4. Teste de Resolução de Nomes (DNS via CMD)
 Prompt de Comando demonstrando o sucesso do DNS em traduzir a URL `www.intranet.com` diretamente para o IP estático do servidor (`192.168.3.100`).
+
 ![CMD Ping](./imagens/dnspingtest.jpeg)
 
 ### 5. Configurações de Rede do Servidor
