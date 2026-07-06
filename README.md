@@ -59,23 +59,23 @@ wr
 
 ### 1. Topologia Lógica da LAN
 Estrutura de divisões físicas e lógicas dos três setores conectados ao roteador central.
-![Topologia](.imagens/enterpriselan.jpeg)
+![Topologia](./imagens/enterpriselan.jpeg)
 
 ### 2. Fluxo de Pacotes (Simulação em Massa)
 Teste de carga utilizando PDUs para validar o tráfego ICMP e HTTP entre as sub-redes sem perdas ou gargalos.
-![Simulação](.imagens/pdutest.jpeg)
+![Simulação](./imagens/pdutest.jpeg)
 
 ### 3. Acesso à Intranet Corporativa
 Validação ponta a ponta do serviço HTTP exibindo o portal interno customizado em HTML através do navegador de uma estação de trabalho.
-![Intranet](.imagens/dnstest.jpeg)
+![Intranet](./imagens/dnstest.jpeg)
 
 ### 4. Teste de Resolução de Nomes (DNS via CMD)
 Prompt de Comando demonstrando o sucesso do DNS em traduzir a URL `www.intranet.com` diretamente para o IP estático do servidor (`192.168.3.100`).
-![CMD Ping](.imagens/dnspingtest)
+![CMD Ping](./imagens/dnspingtest.jpeg)
 
 ### 5. Configurações de Rede do Servidor
 Configuração de IP estático, Gateway padrão e loopback de DNS para gerenciar as requisições de domínio internas.
-![Config Servidor](.imagens/serverconfig.jpeg)
+![Config Servidor](./imagens/serverconfig.jpeg)
 
 ---
 
